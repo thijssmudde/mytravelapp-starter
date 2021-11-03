@@ -1,0 +1,57 @@
+{
+  "name": "mytravelapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "6.2.0",
+    "@react-hook/window-size": "3.0.7",
+    "@testing-library/jest-dom": "5.11.4",
+    "@testing-library/react": "11.1.0",
+    "@testing-library/user-event": "12.1.10",
+    "classnames": "2.3.1",
+    "leaflet": "1.7.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-helmet": "6.1.0",
+    "react-icons": "4.3.1",
+    "react-leaflet": "2.7.0",
+    "react-scripts": "4.0.3",
+    "tappui": "git+https://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:x-oauth-basic@github.com/fullhdpixel/storybook-course.git",
+    "typescript": "4.4.2",
+    "web-vitals": "1.0.1"
+  },
+  "devDependencies": {
+    "@types/leaflet": "1.7.5",
+    "@types/react": "17.0.20",
+    "@types/react-helmet": "6.1.3",
+    "@types/react-leaflet": "2.8.2",
+    "autoprefixer": "9",
+    "postcss": "8.3.11",
+    "postcss-cli": "9.0.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
