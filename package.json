@@ -16,7 +16,6 @@
     "react-icons": "4.3.1",
     "react-leaflet": "2.7.0",
     "react-scripts": "4.0.3",
-    "tappui": "git+https://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:x-oauth-basic@github.com/fullhdpixel/storybook-course.git",
     "typescript": "4.4.2",
     "web-vitals": "1.0.1"
   },
